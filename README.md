@@ -1,5 +1,5 @@
 # Vehicle-Insurance-Fraud-detection
-Business Requirements in Insurance Fraud Projects
+# Business Requirements in Insurance Fraud Projects
 
 Data Quality & Preprocessing
 
@@ -13,7 +13,7 @@ Summary statistics, distributions, outlier detection.
 
 Visualizations to identify fraud patterns.
 
-Model Building & Evaluation
+# Model Building & Evaluation
 
 At least one baseline model (Logistic Regression).
 
@@ -27,9 +27,9 @@ Confusion matrix, classification report, ROC-AUC curve.
 
 Focus on minimizing false negatives (missed frauds).
 
-Business Interpretability
+# Business Interpretability
 
-Conclusion
+# Conclusion
 The XGBoost model is the best overall performer.
 
 It delivers the highest AUC score, lowest estimated business cost, and best recall–precision trade-off.
@@ -40,7 +40,7 @@ It also maintains interpretability through feature importance analysis and offer
 
 In business terms, XGBoost detects more fraudulent claims while minimizing unnecessary investigations — maximizing cost savings and fraud prevention efficiency.
 
-Final Findings
+# Final Findings
 
 XGBoost
 
